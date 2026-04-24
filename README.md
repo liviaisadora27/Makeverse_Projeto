@@ -13,3 +13,4 @@ Projeto de Extensão - IFPE Belo Jardim.
 
 - Antes de iniciar: `git pull`
 - Após salvar: `git add .`, `git commit -m "o que foi feito"`, `git push`
+
