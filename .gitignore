@@ -1,2 +1,7 @@
-*.uistate.json
-ts-defs
+# Construct 3 - Arquivos temporários e backups
+*.autosave
+*.tmp
+*.bak
+desktop.ini
+thumbs.db
+.DS_Store
